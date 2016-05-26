@@ -9,4 +9,15 @@
 import Foundation
 
 print("Hello, World!")
+print("Print this")
+print(" and ")
+print("that")
 
+let i:Int = -25
+let f:Float = 3.14
+let d:Double = 99.99
+let b:Bool = true
+
+print("i = \(i), f = \(f), d = \(d), b = \(b)")
+
+// one line comment
